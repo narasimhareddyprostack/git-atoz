@@ -5,3 +5,8 @@ git commit -m "first commit"
 git remote add origin https://github.com/narasimhareddyprostack/git-atoz.git
 git push -u origin master
 
+git branch -a
+to display local and remote branch names
+
+git remote --v
+
